@@ -1,4 +1,4 @@
-# Fix Audio on Baytrail Chromebooks under Linux
+# Fix Audio on Braswell Chromebooks under Linux
 
 This has been tested on Ubuntu 20.04
 
