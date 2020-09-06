@@ -16,16 +16,14 @@ chmod +x script.sh
 
 ## What works ?
 
- - Speakers (you can inscrease volume to a dangerous level)
+ - Speakers (you can increase volume to a dangerous level)
  - Headphones (same rule applies) 
  - Speaker to Headphones switch on Headphones plug-in
 
 ## What doesn't ?
 
- - Internal mic (as other users tested, it registers only when blowing on it, at full volumen just once, binary style)
+ - Internal mic (as other users tested, it registers only when blowing on it, at full volume just once, binary style)
 
 ## Not tested
 
  - Headphones mic (such as built-in mic in headphones)
-
-As always, open to suggestions, PR to correct this horrible README, and so on.
